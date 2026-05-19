@@ -22,12 +22,6 @@ A full-stack analytics dashboard that processes CSV data and generates business 
 
 ---
 
-## 🚀 Live Demo
-
---
-
----
-
 ## 🧠 Project Architecture
 
 1. User uploads CSV file
